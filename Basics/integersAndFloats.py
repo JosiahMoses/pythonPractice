@@ -1,4 +1,4 @@
-# Few example on how Python deals with integers and floats.
+# Many example on how Python deals with integers and floats.
 answer = 3 + 2
 print("3 + 2 = ", answer)
 
