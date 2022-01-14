@@ -1,3 +1,4 @@
+# A few way to use and manipulate strings.
 message = "Hello World!"
 print(message)
 
